@@ -24,7 +24,9 @@ export default defineConfig({
         { text: 'Introducción', link: '/intro' },
         { text: 'Principios como Devs', link: '/cap-01-nuestros-principios-como-devs' },
         { text: 'Introducción a los Objetos', link: '/cap-02-introduccion-a-los-objetos' },
-        { text: 'Cómo Pensar en Objetos', link: '/cap-03-como-pensar-en-objetos' },                       
+        { text: 'Cómo Pensar en Objetos', link: '/cap-03-como-pensar-en-objetos' },
+        { text: 'POO según LOS MANUALES', link: '/cap-04-poo-segun-los-manualesobjetos' },
+        { text: 'Empezar a plasmar los objetos en un diseño', link: '/cap-05-empezar-a-plasmar-los-objetos-en-un-diseno' }                             
       ]
     }],
     socialLinks: [
