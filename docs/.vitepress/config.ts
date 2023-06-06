@@ -26,7 +26,8 @@ export default defineConfig({
         { text: 'Introducción a los Objetos', link: '/cap-02-introduccion-a-los-objetos' },
         { text: 'Cómo Pensar en Objetos', link: '/cap-03-como-pensar-en-objetos' },
         { text: 'POO según LOS MANUALES', link: '/cap-04-poo-segun-los-manualesobjetos' },
-        { text: 'Empezar a plasmar los objetos en un diseño', link: '/cap-05-empezar-a-plasmar-los-objetos-en-un-diseno' }                             
+        { text: 'Empezar a plasmar los objetos en un diseño', link: '/cap-05-empezar-a-plasmar-los-objetos-en-un-diseno' },
+        { text: 'Introducción a UML', link: '/cap-06-introducción-a-uml' }
       ]
     }],
     socialLinks: [
