@@ -28,7 +28,8 @@ export default defineConfig({
         { text: 'POO según LOS MANUALES', link: '/cap-04-poo-segun-los-manualesobjetos' },
         { text: 'Empezar a plasmar los objetos en un diseño', link: '/cap-05-empezar-a-plasmar-los-objetos-en-un-diseno' },
         { text: 'Introducción a UML', link: '/cap-06-introducción-a-uml' },
-        { text: 'Cómo representar una clase en UML', link: '/cap-07-como-representar-una-clase-en-uml' }        
+        { text: 'Cómo representar una clase en UML', link: '/cap-07-como-representar-una-clase-en-uml' },
+        { text: 'Ejercicio "Micaela y el Perro"', link: '/cap-08-ejercicio-micaela-y-el-perro' }      
       ]
     }],
     socialLinks: [
