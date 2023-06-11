@@ -6,7 +6,7 @@ Aprende de forma simple y definitiva POO para PHP.
 
 Se habla mayoritariamente de UML, desarrollos en 3 capas, lógica de negocios, persistencia, polimorfismo, frameworks, patrones de diseño, refactoring... todo esto es posible hacerlo con PHP.
 
->PHP nos permite hacer muchas cosas que son habituales en la POO. Por lo tanto, tenemos todas las herramientas para "evolucionar" y no quedarnos en las excusas.
+>PHP nos permite hacer muchas cosas que son habituales en la POO. Por lo tanto, tenemos todas las herramientas para _"evolucionar"_ y no quedarnos en las excusas.
 
 ## Programador versus Desarrollador
 
@@ -34,4 +34,4 @@ PHP se está orientando a convertir en una _"arquitectura"_ mucho más simple y 
 
 **¿Eres parte del problema o parte de la solución?**
 
->Tenemos que especializarnos y profesionalizarnos, el mundo pide POO, arquitecturas, capas, etc, y habla en "UML"... tú, ¿en qué idioma hablas?
+>Tenemos que especializarnos y profesionalizarnos, el mundo pide POO, arquitecturas, capas, etc, y habla en _"UML"_... tú, ¿en qué idioma hablas?
