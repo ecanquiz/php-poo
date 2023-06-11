@@ -31,7 +31,7 @@ Tenemos entonces:
 - _“come”_, otras acciones relacionadas con su exterior/interior
 - _“hace caca”_, tiene otras acciones que están relacionadas con su interior, y que posteriormente se exteriorizan de alguna forma
 
-![cap-03-como-pensar-en-objetos](./img/cap-03-como-pensar-en-objetos-1.png)
+![cap-03-como-pensar-en-objetos](./img/cap-03-como-pensar-en-objetos-1.jpg)
 
 También es importante destacar, un poco más sutil, que existe **otro objeto** en este escenario y se llama **“Micaela”**, y además existe (aunque no lo veamos) **un contexto** (“todo sistema tiene un contexto, un sistema no puede aplicarse en absolutamente todos los contextos”) donde “viven” los objetos y que permite que se genere una interacción entre ambos.
 

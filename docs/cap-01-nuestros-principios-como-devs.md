@@ -22,13 +22,15 @@ Hay una frase que dice _“la mejor arquitectura es la sencillez”_. La sencill
 
 El lenguaje PHP y su comunidad, por años, no ha tenido ningún referente único para seguir un estándar, por consiguiente los desarrolladores usan o inventan el que más le quede cómodo. Evita crear un estándar propio. (leer sobre [**PSR** o **PHP Standar Recomendation**](https://www.php-fig.org/psr/)).
 
+## 5° Principio: Escribir el código en inglés
+
+Es una de las mejores practicas que podemos tener en nuestros proyectos. Cada vez es más necesario aprender inglés técnico, pues es considerado el _“idioma estándar”_ respectivamente. Recuerde que el vocabulario técnico en inglés le permite mayor comprensión de los temas vinculados al desarrollo. Por otro lado, también facilita estar al día con tendencias y avances. Tener un buen nivel de inglés técnico puede ser el mayor diferencial en su carrera. No solo podrá desenvolverse en cualquier actividad profesional, sino que le abrirá las puertas a oportunidades.
+
 :::info Nota
 Si prestas atención verás que en todos los ejemplos las llaves `{}` inician a la izquierda cuando es una clase o un método, no se usa el tag de cierre de php `?>`, atributos y métodos privados iniciando con `_`, etcétera.
 :::
 
-:::tip Info
-Escribir el código y los _"commits"_ en inglés es una de las mejores practicas que podemos tener en nuestros proyectos. Cada vez es más necesario aprender inglés técnico, pues es considerado el _“idioma estándar”_ respectivamente. Recuerde que el vocabulario técnico en inglés le permite mayor comprensión de los temas vinculados al desarrollo. Por otro lado, también facilita estar al día con tendencias y avances. Tener un buen nivel de inglés técnico puede ser el mayor diferencial en su carrera. No solo podrá desenvolverse en cualquier actividad profesional, sino que le abrirá las puertas a oportunidades.
-:::
+
 
 
 
